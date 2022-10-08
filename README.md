@@ -1,3 +1,4 @@
 # Hi there 👋
 
-## **vlrst** GitHub
+## What I Do
+I type random stuff into computers
