@@ -1,4 +1,5 @@
+<div align="center"
 # Hi there 👋
-
-## What I Do
+<h2> What I Do </h2>
 I type random stuff into computers
+</div>
