@@ -1,5 +1,5 @@
 <div align="center">
-<pre><code>
+<h1><pre><code>
 // I hate js
-</code></pre>
+</code></pre></h1>
 </div>
